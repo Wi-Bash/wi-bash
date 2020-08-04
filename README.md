@@ -1,16 +1,13 @@
-### Hi there 👋
+## 🔭 À propos:
 
-<!--
-**Wi-Bash/wi-bash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖💻 Une association de jeunes étudiants en Informatique avides de savoir à l'[Université Des Antilles](http://www.univ-ag.fr/).
 
-Here are some ideas to get you started:
+## 🌎 Nos réseaux:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   wi-bash.fr
+-   [Instagram](https://www.instagram.com/wi_bash/).
+-   [Facebook](https://www.facebook.com/wibash971/).
+
+## 💬 Nous contacter:
+
+-   📫 contact@wi-bash.fr
